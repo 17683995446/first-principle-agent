@@ -1,0 +1,218 @@
+[
+  {
+    "template_id": "web_app_from_scratch",
+    "name": "从零构建Web应用",
+    "description": "从零开始构建一个完整的Web应用程序",
+    "category": "web_development",
+    "tags": [
+      "web",
+      "fullstack",
+      "beginner"
+    ],
+    "requirements": [
+      "选择技术栈（前端/后端框架）",
+      "确定应用功能需求",
+      "设计数据库结构"
+    ],
+    "steps": [
+      "创建项目结构",
+      "设计数据库模型",
+      "实现后端API",
+      "开发前端界面",
+      "集成前后端",
+      "编写测试",
+      "部署上线"
+    ],
+    "estimated_time": "3-7天",
+    "difficulty": "medium",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621498",
+    "updated_at": "2026-05-30T05:02:38.621502",
+    "is_preset": true
+  },
+  {
+    "template_id": "data_cleaning_pipeline",
+    "name": "数据清洗流水线",
+    "description": "构建完整的数据清洗和预处理流水线",
+    "category": "data_processing",
+    "tags": [
+      "data",
+      "cleaning",
+      "pipeline"
+    ],
+    "requirements": [
+      "确定数据源",
+      "定义数据质量标准",
+      "选择处理工具"
+    ],
+    "steps": [
+      "数据采集",
+      "数据探索分析",
+      "缺失值处理",
+      "异常值检测",
+      "数据类型转换",
+      "数据标准化",
+      "数据验证"
+    ],
+    "estimated_time": "2-3天",
+    "difficulty": "medium",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621503",
+    "updated_at": "2026-05-30T05:02:38.621504",
+    "is_preset": true
+  },
+  {
+    "template_id": "system_backup_strategy",
+    "name": "系统备份策略",
+    "description": "设计和实施完整的系统备份策略",
+    "category": "system_admin",
+    "tags": [
+      "backup",
+      "system",
+      "security"
+    ],
+    "requirements": [
+      "确定备份内容",
+      "选择备份工具",
+      "规划备份存储"
+    ],
+    "steps": [
+      "分析备份需求",
+      "选择备份方案",
+      "配置备份工具",
+      "设置备份周期",
+      "测试备份恢复",
+      "监控备份状态"
+    ],
+    "estimated_time": "1-2天",
+    "difficulty": "easy",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621505",
+    "updated_at": "2026-05-30T05:02:38.621506",
+    "is_preset": true
+  },
+  {
+    "template_id": "ml_model_training",
+    "name": "机器学习模型训练",
+    "description": "完整的机器学习模型训练流程",
+    "category": "machine_learning",
+    "tags": [
+      "ml",
+      "training",
+      "model"
+    ],
+    "requirements": [
+      "准备训练数据",
+      "选择模型架构",
+      "确定评估指标"
+    ],
+    "steps": [
+      "数据准备",
+      "数据预处理",
+      "数据集划分",
+      "模型选择",
+      "模型训练",
+      "模型评估",
+      "模型优化",
+      "模型部署"
+    ],
+    "estimated_time": "5-10天",
+    "difficulty": "hard",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621507",
+    "updated_at": "2026-05-30T05:02:38.621508",
+    "is_preset": true
+  },
+  {
+    "template_id": "api_documentation",
+    "name": "API文档编写",
+    "description": "完整的API文档编写和发布流程",
+    "category": "documentation",
+    "tags": [
+      "docs",
+      "api",
+      "documentation"
+    ],
+    "requirements": [
+      "API接口列表",
+      "文档风格指南",
+      "示例数据"
+    ],
+    "steps": [
+      "收集API信息",
+      "编写接口文档",
+      "添加使用示例",
+      "编写错误说明",
+      "生成文档站点",
+      "发布和维护"
+    ],
+    "estimated_time": "1-3天",
+    "difficulty": "easy",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621510",
+    "updated_at": "2026-05-30T05:02:38.621511",
+    "is_preset": true
+  },
+  {
+    "template_id": "test_suite_build",
+    "name": "测试套件构建",
+    "description": "构建完整的测试套件",
+    "category": "testing",
+    "tags": [
+      "test",
+      "testing",
+      "quality"
+    ],
+    "requirements": [
+      "确定测试范围",
+      "选择测试框架",
+      "制定测试策略"
+    ],
+    "steps": [
+      "测试规划",
+      "单元测试开发",
+      "集成测试开发",
+      "端到端测试",
+      "性能测试",
+      "CI集成",
+      "测试报告生成"
+    ],
+    "estimated_time": "3-5天",
+    "difficulty": "medium",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621512",
+    "updated_at": "2026-05-30T05:02:38.621513",
+    "is_preset": true
+  },
+  {
+    "template_id": "cicd_pipeline",
+    "name": "CI/CD流水线搭建",
+    "description": "搭建持续集成和持续部署流水线",
+    "category": "devops",
+    "tags": [
+      "ci",
+      "cd",
+      "devops",
+      "automation"
+    ],
+    "requirements": [
+      "代码仓库",
+      "部署环境",
+      "CI工具选择"
+    ],
+    "steps": [
+      "环境准备",
+      "配置CI流程",
+      "配置CD流程",
+      "编写部署脚本",
+      "设置监控告警",
+      "集成测试"
+    ],
+    "estimated_time": "2-4天",
+    "difficulty": "hard",
+    "version": "1.0",
+    "created_at": "2026-05-30T05:02:38.621514",
+    "updated_at": "2026-05-30T05:02:38.621515",
+    "is_preset": true
+  }
+]
